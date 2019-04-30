@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="mvcfirst"/>
+<aop-project name="session5web1"/>
+<aop-project name="session5web2"/>
+<aop-project name="session5web3"/>
 </aop-reference-model>
