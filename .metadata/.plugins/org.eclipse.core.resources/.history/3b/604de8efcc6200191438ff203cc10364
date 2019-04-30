@@ -1,0 +1,10 @@
+@RestController
+@RequestMapping("/home")
+public class IndexController2 {
+ 
+@RequestMapping(value={"", "/page", "page*","view/*,**/msg"})
+  String indexMultipleMapping(){
+    return "Hello from index multiple mapping.";
+  }
+}
+

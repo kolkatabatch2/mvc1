@@ -1,0 +1,14 @@
+package com.controller;
+@RequestMapping("/home")
+public class IndexController3 {
+  @RequestMapping(value = "/fetch/{id}", method = RequestMethod.GET)
+  String getDynamicUriValue(@PathVariable String id){
+    System.out.println("ID is "+id);
+    return "Dynamic URI parameter fetched"; 
+  } 
+  @RequestMapping(value = "/fetch/{id:[a-z]+}/{name}", method = RequestMethod.GET)
+    String getDynamicUriValueRegex(@PathVariable("name") String name){
+    System.out.println("Name is "+name);
+    return "Dynamic URI parameter fetched using regex"; 
+  } 
+}
