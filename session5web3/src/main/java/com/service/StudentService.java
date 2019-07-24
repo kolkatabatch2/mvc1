@@ -1,12 +1,9 @@
 package com.service;
-
 import java.util.*;
 import com.model.*;
 public class StudentService {
-
 	private List<Student> students=new ArrayList<Student>();
-	
-	public List<Student>   studentList()
+		public List<Student>   studentList()
 	{
 		Student student1=new Student();
 		student1.setRoll(1);
@@ -16,7 +13,6 @@ public class StudentService {
 		student2.setName("Ananda");
 		students.add(student1);
 		students.add(student2);
-		
 		return students;
 	}
 }

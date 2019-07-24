@@ -11,7 +11,6 @@
 <c:forEach items="${studentList}" var="student">
  ${student.roll}
  ${student.name}
-  
-</c:forEach>
+ </c:forEach>
 </body>
 </html>

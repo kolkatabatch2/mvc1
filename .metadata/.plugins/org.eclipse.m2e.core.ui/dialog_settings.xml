@@ -44,6 +44,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Diptish\Desktop\deliverables\MVCdemos\session5web4"/>
 			<item value="C:\Users\Diptish\Desktop\deliverables\MVCdemos\session5web2"/>
 			<item value="C:\Users\Diptish\Desktop\deliverables\MVCdemos\session5web1"/>
 			<item value="C:\Users\Diptish\Desktop\deliverables\MVCdemos\mvcfirst"/>
@@ -59,13 +60,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.stackroute.session5web5"/>
+			<item value="com.stackroute.session9web8"/>
 		</list>
 		<list key="groupId">
 			<item value="com.stackroute"/>
 		</list>
 		<list key="artifactId">
-			<item value="session5web5"/>
+			<item value="session9web8"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

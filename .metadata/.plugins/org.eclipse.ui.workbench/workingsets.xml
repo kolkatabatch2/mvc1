@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1556988820507_1" label="KeepNote-Step-6-Solution" name="KeepNote-Step-6-Solution">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/KeepNote-Step-6-Solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/UserService" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ReminderService" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CategoryService" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/UserAuthentication-Service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/NoteService" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1555663168816_0" label="Window Working Set" name="Aggregate for window 1555663168813"/>
 </workingSetManager>

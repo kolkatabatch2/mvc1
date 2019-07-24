@@ -16,6 +16,5 @@
  ${book.id}
  ${book.name}
   </c:forEach>
-
 </body>
 </html>
